@@ -1,0 +1,19 @@
+div#container{
+  background: rgb(199, 199, 199);
+  margin: auto;
+  height: 130px;
+  margin: auto;
+  margin-right: 600px;
+  div#content{
+    margin-left: 20px;
+    display: flex;
+    height: 100%;
+  }
+}
+#showbutton{
+margin-left: 80px;
+}
+#anotherbutton{
+  margin-left: 95px;
+  margin-top: 10px;
+}
